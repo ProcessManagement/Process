@@ -1,3 +1,3 @@
-ProcessManagement
+#ProcessManagement
 
-Process Management for EC
+This repository is for implementing Process Management within Erls
